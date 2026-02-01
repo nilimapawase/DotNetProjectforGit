@@ -10,7 +10,7 @@ namespace DotNetProjectforGit
     {
         public void Add()
         {
-
+            Console.WriteLine("Add Employee");
         }
     }
 }
