@@ -47,6 +47,7 @@
     <Compile Include="Employee1.cs" />
     <Compile Include="Employee\Dashboard.cs" />
     <Compile Include="Products\Operations.cs" />
+    <Compile Include="Products\ProductOperations.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
